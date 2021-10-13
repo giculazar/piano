@@ -1,13 +1,6 @@
 import React,{useState} from "react";
 import './App.css';
-import DO from "./piano-notes/noty-do.mp3"
-import RE from "./piano-notes/re.mp3"
-import MI from "./piano-notes/mi.mp3"
-import FA from "./piano-notes/fa.mp3"
-import SOL from "./piano-notes/sol.mp3"
-import LA from "./piano-notes/lja.mp3"
-import SI from "./piano-notes/si.mp3"
-import DOF from "./piano-notes/noty-do.mp3"
+import {DO,RE,MI,FA,DOF,SOL,SI,LA} from "./piano-notes/piano-notes"
 
 
 function App() {
