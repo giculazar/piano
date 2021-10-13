@@ -1,0 +1,33 @@
+.piano-notes{
+    background-color: white;
+    height: 300px;
+    width: 60px;
+    border: 2px solid black;
+    position: relative;
+
+}
+.piano{
+    display: flex;
+    justify-content: center;
+}
+
+.div-plus{
+
+   display: flex;
+    justify-content: center;
+}
+.div-file{
+
+    display: flex;
+    justify-content: center;
+}
+
+
+/*.plus{*/
+
+    /*display: flex;*/
+    /*position: relative;*/
+    /*left: 10px;*/
+    /*top: 125px;*/
+/*}*/
+
