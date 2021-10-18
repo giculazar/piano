@@ -4,20 +4,19 @@
     width: 60px;
     border: 2px solid black;
     position: relative;
-
 }
+
 .piano{
     display: flex;
     justify-content: center;
 }
 
 .div-plus{
-
-   display: flex;
+    display: flex;
     justify-content: center;
 }
-.div-file{
 
+.div-file{
     display: flex;
     justify-content: center;
 }
